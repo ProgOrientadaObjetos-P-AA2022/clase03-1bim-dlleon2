@@ -12,5 +12,8 @@ package manejoclases;
 public class Ejecutable {
     public static void main(String[] args) {
         Hospital hospital = new Hospital();
+        Hospital h2 = new Hospital();
+        Hospital hospitaloja = new Hospital();
+        Hospital hospital_Loja = new Hospital();
     }
 }

@@ -5,7 +5,7 @@
  */
 package paqueteuno;
 
-import ejerciciosclasetres.Pelicula;
+import ejerciciosclasetres.Ejecutor;
 /**
  *
  * @author reroes
